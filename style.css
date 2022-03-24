@@ -1,5 +1,8 @@
 body {background: lightcyan; font-family: "Times New Roman";}
 h1 {text-align: center; font-family: 'Times New Roman', Times, serif;}
-h2 {text-align: center; font-family: 'Times New Roman', Times, serif;}
-h3 {text-align: left; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+h2 {text-align: center; font-family: 'Times New Roman', Times, serif; border: 2px solid black;}
+h3 {text-align: left; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; text-decoration: underline;}
 table, th, td {border: 1px solid;}
+img {border-radius: 40px; margin: 5px; padding: 20px;}
+
+.first-letter {color:blue; font-size: larger; font-weight: bold;}
